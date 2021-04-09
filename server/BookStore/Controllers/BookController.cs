@@ -19,9 +19,9 @@ namespace BookStore.Controllers
             "El alquimista"
         };
 
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<BookController> _logger;
 
-        public BookController(ILogger<WeatherForecastController> logger)
+        public BookController(ILogger<BookController> logger)
         {
             _logger = logger;
         }
