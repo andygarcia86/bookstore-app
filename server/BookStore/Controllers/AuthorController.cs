@@ -1,30 +1,36 @@
 ﻿using System.Collections.Generic;
 using BookStore.Models;
+using System.Threading.Tasks;
+using BookStore.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
 namespace BookStore.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("authors")]
     public class AuthorController : ControllerBase
     {
         private readonly ILogger<AuthorController> _logger;
+        private readonly IAuthorService _authorService;
 
-        public AuthorController(ILogger<AuthorController> logger)
+        public AuthorController(ILogger<AuthorController> logger, IAuthorService authorService)
         {
             _logger = logger;
+            _authorService = authorService;
         }
 
+        [Produces("application/json")]
         [HttpGet]
-        public IEnumerable<Author> Get()
+        public async Task<IActionResult> GetAll()
         {
-            var authors = new List<Author>();
-            authors.Add(new Author() { Name = "Andrew" });
-            authors.Add(new Author() { Name = "Robert C. Martin" });
-            authors.Add(new Author() { Name = "Paulo Coelho" });
+            _logger.LogDebug("Started.");
 
-            return authors;
+            var authors = await _authorService.GetAllAsync();
+
+            _logger.LogDebug("Completed.");
+
+            return Ok(authors);
         }
     }
 }

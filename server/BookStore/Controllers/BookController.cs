@@ -1,39 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BookStore.Models;
+using BookStore.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
 namespace BookStore.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("books")]
     public class BookController : ControllerBase
     {
-        private static readonly string[] Books = new[]
-        {
-            "Design Patterns: Elements of Reusable Object-Oriented Software", 
-            "Getting MEAN", 
-            "El alquimista"
-        };
-
         private readonly ILogger<BookController> _logger;
+        private readonly IBookService _bookService;
 
-        public BookController(ILogger<BookController> logger)
+        public BookController(ILogger<BookController> logger, IBookService bookService)
         {
             _logger = logger;
+            _bookService = bookService;
         }
 
+        [Produces("application/json")]
         [HttpGet]
-        public IEnumerable<Book> Get()
+        public async Task<IActionResult> GetAll()
         {
-            return Enumerable.Range(0, 3).Select(index => new Book
-            {
-                Title = Books[index]
-            })
-            .ToArray();
+            _logger.LogDebug("Started.");
+
+            var books = await _bookService.GetAllAsync();
+
+            _logger.LogDebug("Completed.");
+
+            return Ok(books);
         }
     }
 }
