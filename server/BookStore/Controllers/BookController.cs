@@ -9,12 +9,11 @@ using Microsoft.Extensions.Logging;
 namespace BookStore.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("books")]
     public class BookController : ControllerBase
     {
         private readonly ILogger<BookController> _logger;
         private readonly IBookService _bookService;
-
 
         public BookController(ILogger<BookController> logger, IBookService bookService)
         {

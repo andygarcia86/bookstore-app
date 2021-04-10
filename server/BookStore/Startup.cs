@@ -30,13 +30,15 @@ namespace BookStore
             // Register the Swagger generator, defining one or more Swagger documents
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Communications Web API", Version = "v1" });
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "BookStore Web API", Version = "v1" });
             });
 
             //Repositories
+            services.AddScoped<IAuthorRepository, AuthorRepository>();
             services.AddScoped<IBookRepository, BookRepository>();
 
             //Services
+            services.AddScoped<IAuthorService, AuthorService>();
             services.AddScoped<IBookService, BookService>();
 
         }
@@ -50,7 +52,7 @@ namespace BookStore
             // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "BL Communications TS API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "BookStore Web API V1");
             });
 
             if (env.IsDevelopment())
