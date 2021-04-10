@@ -1,15 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using BookStore.Data;
+using BookStore.Services;
+using BookStore.Repositories;
 
 namespace BookStore
 {
@@ -27,7 +24,7 @@ namespace BookStore
         {
             services.AddControllers();
 
-            services.AddDbContext<BookStoreDbContext>(options =>
+            services.AddDbContext<IBookStoreDbContext, BookStoreDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             // Register the Swagger generator, defining one or more Swagger documents
@@ -35,6 +32,13 @@ namespace BookStore
             {
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Communications Web API", Version = "v1" });
             });
+
+            //Repositories
+            services.AddScoped<IBookRepository, BookRepository>();
+
+            //Services
+            services.AddScoped<IBookService, BookService>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
