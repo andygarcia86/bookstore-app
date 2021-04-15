@@ -1,11 +1,12 @@
 <template>
   <div id="app">
     <!-- Menu -->
+    
     <ul>
-      <li>Books</li>
-      <li>Authors</li>
+      <li><a href="/books">Books</a></li>
+      <li><a href="/authors">Authors</a></li>
     </ul>
-
+    
     <v-content>
       <router-view />
     </v-content>
