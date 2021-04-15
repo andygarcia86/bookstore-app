@@ -10,6 +10,7 @@ The server side is built in using .Net Core 3.1 version
 ## TDD
 
 
+
 ## Database
 
 For adding new migrations:
