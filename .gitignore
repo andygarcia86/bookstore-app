@@ -1,2 +1,4 @@
 /server/BookStore/bin
 /server/BookStore/obj
+/server/BookStore.Tests/bin
+/server/BookStore.Tests/obj
