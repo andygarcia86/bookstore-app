@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "BookStore App",
+		"_postman_id": "0a03efa2-ccc5-5df2-3932-4de6dc1aac50",
+		"description": "Web application to manage the books and authors.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Authors List",
+			"request": {
+				"url": "http://localhost:1123/authors",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
