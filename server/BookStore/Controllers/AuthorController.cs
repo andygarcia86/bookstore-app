@@ -1,5 +1,3 @@
-﻿using System.Collections.Generic;
-using BookStore.Models;
 using System.Threading.Tasks;
 using BookStore.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -20,6 +18,9 @@ namespace BookStore.Controllers
             _authorService = authorService;
         }
 
+        /// <summary>Returns all authors.</summary>
+        /// <returns>Returns all authors.</returns>
+        /// <remarks>List of authors.</remarks>
         [Produces("application/json")]
         [HttpGet]
         public async Task<IActionResult> GetAll()

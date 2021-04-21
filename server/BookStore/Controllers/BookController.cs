@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using BookStore.Models;
 using BookStore.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -21,6 +18,9 @@ namespace BookStore.Controllers
             _bookService = bookService;
         }
 
+        /// <summary>Returns all books.</summary>
+        /// <returns>Returns all books.</returns>
+        /// <remarks>List of books.</remarks>
         [Produces("application/json")]
         [HttpGet]
         public async Task<IActionResult> GetAll()
