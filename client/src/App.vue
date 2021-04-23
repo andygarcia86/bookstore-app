@@ -1,25 +1,19 @@
 <template>
   <div id="app">
     <!-- Menu -->
+    <top-menu></top-menu>
     
-    <ul>
-      <li><a href="/books">Books</a></li>
-      <li><a href="/authors">Authors</a></li>
-    </ul>
-    
-    <v-content>
-      <router-view />
-    </v-content>
+    <router-view />
   </div>
 </template>
 
 <script>
-//import Landing from './pages/landing.vue'
+import TopMenu from './components/TopMenu.vue'
 
 export default {
   name: 'App',
   components: {
-    //Landing
+    TopMenu
   }
 }
 </script>
