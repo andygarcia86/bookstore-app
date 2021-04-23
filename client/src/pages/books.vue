@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Books</h1>
-    <b-table striped hover :items="items" :fields="fields"></b-table>
+    <b-table striped hover :items="books" :fields="fields"></b-table>
   </div>
 </template>
 
@@ -12,9 +12,9 @@ export default {
     return {
       fields: [
          { key: 'title', label: 'Title'} ,
-         { key: 'author', label: 'author' }
+         { key: 'author', label: 'Author' }
       ],
-      items: [
+      books: [
         { title: 'DO ANDROIDS DREAM OF ELECTRIC SHEEP?', author: 'Dickerson Macdonald' },
         { title: 'EVERYTHING I NEVER TOLD YOU', author: 'Larsen Shaw' },
         { title: 'IS EVERYONE HANGING OUT WITHOUT ME? (AND OTHER CONCERNS)', author: 'Geneva Wilson' },
