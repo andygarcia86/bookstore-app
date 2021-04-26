@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>Books</h1>
+    <b-button>Add Book</b-button>
     <b-table striped hover :items="books" :fields="fields"></b-table>
   </div>
 </template>
