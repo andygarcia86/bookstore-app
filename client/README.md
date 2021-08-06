@@ -1,5 +1,10 @@
 # book-store
 
+## Uses
+
+1. Node v14.15.1
+2. NPM v6.14.8
+
 ## Project setup
 ```
 npm install
