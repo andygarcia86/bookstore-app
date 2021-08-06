@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container"> 
     <h1>Authors</h1>
     <b-button>Add author</b-button>
     <b-table striped hover :items="authors" :fields="fields"></b-table>    

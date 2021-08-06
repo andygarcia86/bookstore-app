@@ -1,0 +1,1481 @@
+{
+  "collection": [
+    {
+      "Title": "Fundamentals of Wavelets" ,
+      "Author": "Goswami, Jaideva" ,
+      "Genre": "Signal Processing" ,
+      "Price": "228" ,
+      "Publisher": "Wiley"
+    } ,
+    {
+      "Title": "Data Smart" ,
+      "Author": "Foreman, John" ,
+      "Genre": "Data Science" ,
+      "Price": "235" ,
+      "Publisher": "Wiley"
+    } ,
+    {
+      "Title": "God Created the Integers" ,
+      "Author": "Hawking, Stephen" ,
+      "Genre": "Mathematics" ,
+      "Price": "197" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Superfreakonomics" ,
+      "Author": "Dubner, Stephen" ,
+      "Genre": "Economics" ,
+      "Price": "179" ,
+      "Publisher": "HarperCollins"
+    } ,
+    {
+      "Title": "Orientalism" ,
+      "Author": "Said, Edward" ,
+      "Genre": "History" ,
+      "Price": "197" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Nature of Statistical Learning Theory" ,
+      "Author": "Vapnik, Vladimir" ,
+      "Genre": "Data Science" ,
+      "Price": "230" ,
+      "Publisher": "Springer"
+    } ,
+    {
+      "Title": "Integration of the Indian States" ,
+      "Author": "Menon, V P" ,
+      "Genre": "History" ,
+      "Price": "217" ,
+      "Publisher": "Orient Blackswan"
+    } ,
+    {
+      "Title": "Drunkard's Walk, The" ,
+      "Author": "Mlodinow, Leonard" ,
+      "Genre": "Science" ,
+      "Price": "197" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Image Processing & Mathematical Morphology" ,
+      "Author": "Shih, Frank" ,
+      "Genre": "Signal Processing" ,
+      "Price": "241" ,
+      "Publisher": "CRC"
+    } ,
+    {
+      "Title": "How to Think Like Sherlock Holmes" ,
+      "Author": "Konnikova, Maria" ,
+      "Genre": "Psychology" ,
+      "Price": "240" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Data Scientists at Work" ,
+      "Author": "Sebastian Gutierrez" ,
+      "Genre": "Data Science" ,
+      "Price": "230" ,
+      "Publisher": "Apress"
+    } ,
+    {
+      "Title": "Slaughterhouse Five" ,
+      "Author": "Vonnegut, Kurt" ,
+      "Genre": "Fiction" ,
+      "Price": "198" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Birth of a Theorem" ,
+      "Author": "Villani, Cedric" ,
+      "Genre": "Mathematics" ,
+      "Price": "234" ,
+      "Publisher": "Bodley Head"
+    } ,
+    {
+      "Title": "Structure & Interpretation of Computer Programs" ,
+      "Author": "Sussman, Gerald" ,
+      "Genre": "Computer Science" ,
+      "Price": "240" ,
+      "Publisher": "MIT Press"
+    } ,
+    {
+      "Title": "Age of Wrath, The" ,
+      "Author": "Eraly, Abraham" ,
+      "Genre": "History" ,
+      "Price": "238" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "The Trial" ,
+      "Author": "Kafka, Frank" ,
+      "Genre": "Fiction" ,
+      "Price": "198" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Statistical Decision Theory'" ,
+      "Author": "Pratt, John" ,
+      "Genre": "Data Science" ,
+      "Price": "236" ,
+      "Publisher": "MIT Press"
+    } ,
+    {
+      "Title": "Data Mining Handbook" ,
+      "Author": "Nisbet, Robert" ,
+      "Genre": "Data Science" ,
+      "Price": "242" ,
+      "Publisher": "Apress"
+    } ,
+    {
+      "Title": "New Machiavelli" ,
+      "Author": "Wells, H. G." ,
+      "Genre": "Fiction" ,
+      "Price": "180" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Physics & Philosophy" ,
+      "Author": "Heisenberg, Werner" ,
+      "Genre": "Science" ,
+      "Price": "197" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Making Software" ,
+      "Author": "Oram, Andy" ,
+      "Genre": "Computer Science" ,
+      "Price": "232" ,
+      "Publisher": "O'Reilly"
+    } ,
+    {
+      "Title": "Analysis, Vol I" ,
+      "Author": "Tao, Terence" ,
+      "Genre": "Mathematics" ,
+      "Price": "248" ,
+      "Publisher": "HBA"
+    } ,
+    {
+      "Title": "Machine Learning for Hackers" ,
+      "Author": "Conway, Drew" ,
+      "Genre": "Data Science" ,
+      "Price": "233" ,
+      "Publisher": "O'Reilly"
+    } ,
+    {
+      "Title": "Signal and the Noise" ,
+      "Author": "Silver, Nate" ,
+      "Genre": "Data Science" ,
+      "Price": "233" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Python for Data Analysis" ,
+      "Author": "McKinney, Wes" ,
+      "Genre": "Data Science" ,
+      "Price": "233" ,
+      "Publisher": "O'Reilly"
+    } ,
+    {
+      "Title": "Introduction to Algorithms" ,
+      "Author": "Cormen, Thomas" ,
+      "Genre": "Computer Science" ,
+      "Price": "234" ,
+      "Publisher": "MIT Press"
+    } ,
+    {
+      "Title": "Beautiful and the Damned" ,
+      "Author": "Deb, Siddhartha" ,
+      "Genre": "Non Fiction" ,
+      "Price": "198" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Outsider, The" ,
+      "Author": "Camus, Albert" ,
+      "Genre": "Fiction" ,
+      "Price": "198" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Complete Sherlock Holmes, The - Vol I" ,
+      "Author": "Doyle, Arthur Conan" ,
+      "Genre": "Fiction" ,
+      "Price": "176" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Complete Sherlock Holmes, The - Vol II" ,
+      "Author": "Doyle, Arthur Conan" ,
+      "Genre": "Fiction" ,
+      "Price": "176" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Wealth of Nations" ,
+      "Author": "Smith, Adam" ,
+      "Genre": "Economics" ,
+      "Price": "175" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Pillars of the Earth" ,
+      "Author": "Follett, Ken" ,
+      "Genre": "Fiction" ,
+      "Price": "176" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Mein Kampf" ,
+      "Author": "Hitler, Adolf" ,
+      "Genre": "Non Fiction" ,
+      "Price": "212" ,
+      "Publisher": "Rupa"
+    } ,
+    {
+      "Title": "Tao of Physics" ,
+      "Author": "Capra, Fritjof" ,
+      "Genre": "Science" ,
+      "Price": "179" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Surely You're Joking Mr Feynman" ,
+      "Author": "Feynman, Richard" ,
+      "Genre": "Science" ,
+      "Price": "198" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Farewell to Arms" ,
+      "Author": "Hemingway, Ernest" ,
+      "Genre": "Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Rupa"
+    } ,
+    {
+      "Title": "Veteran, The" ,
+      "Author": "Forsyth, Frederick" ,
+      "Genre": "Fiction" ,
+      "Price": "177" ,
+      "Publisher": "Transworld"
+    } ,
+    {
+      "Title": "False Impressions" ,
+      "Author": "Archer, Jeffery" ,
+      "Genre": "Fiction" ,
+      "Price": "177" ,
+      "Publisher": "Pan"
+    } ,
+    {
+      "Title": "Last Lecture" ,
+      "Author": "Pausch, Randy" ,
+      "Genre": "Non Fiction" ,
+      "Price": "197" ,
+      "Publisher": "Hyperion"
+    } ,
+    {
+      "Title": "Return of the Primitive" ,
+      "Author": "Rand, Ayn" ,
+      "Genre": "Philosophy" ,
+      "Price": "202" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Jurassic Park" ,
+      "Author": "Crichton, Michael" ,
+      "Genre": "Fiction" ,
+      "Price": "174" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Russian Journal" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Non Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Tales of Mystery and Imagination" ,
+      "Author": "Poe, Edgar Allen" ,
+      "Genre": "Fiction" ,
+      "Price": "172" ,
+      "Publisher": "HarperCollins"
+    } ,
+    {
+      "Title": "Freakonomics" ,
+      "Author": "Dubner, Stephen" ,
+      "Genre": "Economics" ,
+      "Price": "197" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Hidden Connections" ,
+      "Author": "Capra, Fritjof" ,
+      "Genre": "Science" ,
+      "Price": "197" ,
+      "Publisher": "HarperCollins"
+    } ,
+    {
+      "Title": "Story of Philosophy" ,
+      "Author": "Durant, Will" ,
+      "Genre": "Philosophy" ,
+      "Price": "170" ,
+      "Publisher": "Pocket"
+    } ,
+    {
+      "Title": "Asami Asami" ,
+      "Author": "Deshpande, P L" ,
+      "Genre": "Fiction" ,
+      "Price": "205" ,
+      "Publisher": "Mauj"
+    } ,
+    {
+      "Title": "Journal of a Novel" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Once There Was a War" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Non Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Moon is Down" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Brethren" ,
+      "Author": "Grisham, John" ,
+      "Genre": "Fiction" ,
+      "Price": "174" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "In a Free State" ,
+      "Author": "Naipaul, V. S." ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Rupa"
+    } ,
+    {
+      "Title": "Catch 22" ,
+      "Author": "Heller, Joseph" ,
+      "Genre": "Fiction" ,
+      "Price": "178" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Complete Mastermind" ,
+      "Author": "BBC" ,
+      "Genre": "Non Fiction" ,
+      "Price": "178" ,
+      "Publisher": "BBC"
+    } ,
+    {
+      "Title": "Dylan on Dylan" ,
+      "Author": "Dylan, Bob" ,
+      "Genre": "Non Fiction" ,
+      "Price": "197" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Soft Computing & Intelligent Systems" ,
+      "Author": "Gupta, Madan" ,
+      "Genre": "Data Science" ,
+      "Price": "242" ,
+      "Publisher": "Elsevier"
+    } ,
+    {
+      "Title": "Textbook of Economic Theory" ,
+      "Author": "Stonier, Alfred" ,
+      "Genre": "Economics" ,
+      "Price": "242" ,
+      "Publisher": "Pearson"
+    } ,
+    {
+      "Title": "Econometric Analysis" ,
+      "Author": "Greene, W. H." ,
+      "Genre": "Economics" ,
+      "Price": "242" ,
+      "Publisher": "Pearson"
+    } ,
+    {
+      "Title": "Learning OpenCV" ,
+      "Author": "Bradsky, Gary" ,
+      "Genre": "Data Science" ,
+      "Price": "232" ,
+      "Publisher": "O'Reilly"
+    } ,
+    {
+      "Title": "Data Structures Using C & C++" ,
+      "Author": "Tanenbaum, Andrew" ,
+      "Genre": "Computer Science" ,
+      "Price": "235" ,
+      "Publisher": "Prentice Hall"
+    } ,
+    {
+      "Title": "Computer Vision, A Modern Approach" ,
+      "Author": "Forsyth, David" ,
+      "Genre": "Data Science" ,
+      "Price": "255" ,
+      "Publisher": "Pearson"
+    } ,
+    {
+      "Title": "Principles of Communication Systems" ,
+      "Author": "Taub, Schilling" ,
+      "Genre": "Computer Science" ,
+      "Price": "240" ,
+      "Publisher": "TMH"
+    } ,
+    {
+      "Title": "Let Us C" ,
+      "Author": "Kanetkar, Yashwant" ,
+      "Genre": "Computer Science" ,
+      "Price": "213" ,
+      "Publisher": "Prentice Hall"
+    } ,
+    {
+      "Title": "Amulet of Samarkand" ,
+      "Author": "Stroud, Jonathan" ,
+      "Genre": "Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Crime and Punishment" ,
+      "Author": "Dostoevsky, Fyodor" ,
+      "Genre": "Fiction" ,
+      "Price": "180" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Angels & Demons" ,
+      "Author": "Brown, Dan" ,
+      "Genre": "Fiction" ,
+      "Price": "178" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Argumentative Indian" ,
+      "Author": "Sen, Amartya" ,
+      "Genre": "Non Fiction" ,
+      "Price": "209" ,
+      "Publisher": "Picador"
+    } ,
+    {
+      "Title": "Sea of Poppies" ,
+      "Author": "Ghosh, Amitav" ,
+      "Genre": "Fiction" ,
+      "Price": "197" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Idea of Justice" ,
+      "Author": "Sen, Amartya" ,
+      "Genre": "Non Fiction" ,
+      "Price": "212" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Raisin in the Sun" ,
+      "Author": "Hansberry, Lorraine" ,
+      "Genre": "Fiction" ,
+      "Price": "175" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "All the President's Men" ,
+      "Author": "Woodward, Bob" ,
+      "Genre": "History" ,
+      "Price": "177" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Prisoner of Birth" ,
+      "Author": "Archer, Jeffery" ,
+      "Genre": "Fiction" ,
+      "Price": "176" ,
+      "Publisher": "Pan"
+    } ,
+    {
+      "Title": "Scoop!" ,
+      "Author": "Nayar, Kuldip" ,
+      "Genre": "History" ,
+      "Price": "216" ,
+      "Publisher": "HarperCollins"
+    } ,
+    {
+      "Title": "Ahe Manohar Tari" ,
+      "Author": "Deshpande, Sunita" ,
+      "Genre": "Non Fiction" ,
+      "Price": "213" ,
+      "Publisher": "Mauj"
+    } ,
+    {
+      "Title": "Last Mughal" ,
+      "Author": "Dalrymple, William" ,
+      "Genre": "History" ,
+      "Price": "199" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Social Choice & Welfare, Vol 39 No. 1" ,
+      "Author": "Various" ,
+      "Genre": "Economics" ,
+      "Price": "235" ,
+      "Publisher": "Springer"
+    } ,
+    {
+      "Title": "Radiowaril Bhashane & Shrutika" ,
+      "Author": "Deshpande, P L" ,
+      "Genre": "Non Fiction" ,
+      "Price": "213" ,
+      "Publisher": "Mauj"
+    } ,
+    {
+      "Title": "Gun Gayin Awadi" ,
+      "Author": "Deshpande, P L" ,
+      "Genre": "Non Fiction" ,
+      "Price": "212" ,
+      "Publisher": "Mauj"
+    } ,
+    {
+      "Title": "Aghal Paghal" ,
+      "Author": "Deshpande, P L" ,
+      "Genre": "Non Fiction" ,
+      "Price": "212" ,
+      "Publisher": "Mauj"
+    } ,
+    {
+      "Title": "Maqta-e-Ghalib" ,
+      "Author": "Garg, Sanjay" ,
+      "Genre": "Fiction" ,
+      "Price": "221" ,
+      "Publisher": "Mauj"
+    } ,
+    {
+      "Title": "Beyond Degrees" ,
+      "Author": "Not Specified" ,
+      "Genre": "Non Fiction" ,
+      "Price": "222" ,
+      "Publisher": "HarperCollins"
+    } ,
+    {
+      "Title": "Manasa" ,
+      "Author": "Kale, V P" ,
+      "Genre": "Non Fiction" ,
+      "Price": "213" ,
+      "Publisher": "Mauj"
+    } ,
+    {
+      "Title": "India from Midnight to Milennium" ,
+      "Author": "Tharoor, Shashi" ,
+      "Genre": "History" ,
+      "Price": "198" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "World's Greatest Trials" ,
+      "Author": "Not Specified" ,
+      "Genre": "History" ,
+      "Price": "210" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Great Indian Novel" ,
+      "Author": "Tharoor, Shashi" ,
+      "Genre": "Fiction" ,
+      "Price": "198" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "O Jerusalem!" ,
+      "Author": "Lapierre, Dominique" ,
+      "Genre": "History" ,
+      "Price": "217" ,
+      "Publisher": "vikas"
+    } ,
+    {
+      "Title": "City of Joy, The" ,
+      "Author": "Lapierre, Dominique" ,
+      "Genre": "Fiction" ,
+      "Price": "177" ,
+      "Publisher": "vikas"
+    } ,
+    {
+      "Title": "Freedom at Midnight" ,
+      "Author": "Lapierre, Dominique" ,
+      "Genre": "History" ,
+      "Price": "167" ,
+      "Publisher": "vikas"
+    } ,
+    {
+      "Title": "Winter of Our Discontent" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "On Education" ,
+      "Author": "Russell, Bertrand" ,
+      "Genre": "Philosophy" ,
+      "Price": "203" ,
+      "Publisher": "Routledge"
+    } ,
+    {
+      "Title": "Free Will" ,
+      "Author": "Harris, Sam" ,
+      "Genre": "Philosophy" ,
+      "Price": "203" ,
+      "Publisher": "FreePress"
+    } ,
+    {
+      "Title": "Bookless in Baghdad" ,
+      "Author": "Tharoor, Shashi" ,
+      "Genre": "Non Fiction" ,
+      "Price": "206" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Case of the Lame Canary" ,
+      "Author": "Gardner, Earle Stanley" ,
+      "Genre": "Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Theory of Everything" ,
+      "Author": "Hawking, Stephen" ,
+      "Genre": "Science" ,
+      "Price": "217" ,
+      "Publisher": "Jaico"
+    } ,
+    {
+      "Title": "New Markets & Other Essays" ,
+      "Author": "Drucker, Peter" ,
+      "Genre": "Economics" ,
+      "Price": "176" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Electric Universe" ,
+      "Author": "Bodanis, David" ,
+      "Genre": "Science" ,
+      "Price": "201" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Hunchback of Notre Dame" ,
+      "Author": "Hugo, Victor" ,
+      "Genre": "Fiction" ,
+      "Price": "175" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Burning Bright" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Fiction" ,
+      "Price": "175" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Age of Discontuinity" ,
+      "Author": "Drucker, Peter" ,
+      "Genre": "Economics" ,
+      "Price": "178" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "Doctor in the Nude" ,
+      "Author": "Gordon, Richard" ,
+      "Genre": "Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Down and Out in Paris & London" ,
+      "Author": "Orwell, George" ,
+      "Genre": "Non Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Identity & Violence" ,
+      "Author": "Sen, Amartya" ,
+      "Genre": "Philosophy" ,
+      "Price": "219" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Beyond the Three Seas" ,
+      "Author": "Dalrymple, William" ,
+      "Genre": "History" ,
+      "Price": "197" ,
+      "Publisher": "Random House"
+    } ,
+    {
+      "Title": "World's Greatest Short Stories" ,
+      "Author": "Not Specified" ,
+      "Genre": "Fiction" ,
+      "Price": "217" ,
+      "Publisher": "Jaico"
+    } ,
+    {
+      "Title": "Talking Straight" ,
+      "Author": "Iacoca, Lee" ,
+      "Genre": "Non Fiction" ,
+      "Price": "175" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Maugham's Collected Short Stories, Vol 3" ,
+      "Author": "Maugham, William S" ,
+      "Genre": "Fiction" ,
+      "Price": "171" ,
+      "Publisher": "Vintage"
+    } ,
+    {
+      "Title": "Phantom of Manhattan" ,
+      "Author": "Forsyth, Frederick" ,
+      "Genre": "Fiction" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Ashenden of The British Agent" ,
+      "Author": "Maugham, William S" ,
+      "Genre": "Fiction" ,
+      "Price": "160" ,
+      "Publisher": "Vintage"
+    } ,
+    {
+      "Title": "Zen & The Art of Motorcycle Maintenance" ,
+      "Author": "Pirsig, Robert" ,
+      "Genre": "Philosophy" ,
+      "Price": "172" ,
+      "Publisher": "Vintage"
+    } ,
+    {
+      "Title": "Great War for Civilization" ,
+      "Author": "Fisk, Robert" ,
+      "Genre": "History" ,
+      "Price": "197" ,
+      "Publisher": "HarperCollins"
+    } ,
+    {
+      "Title": "We the Living" ,
+      "Author": "Rand, Ayn" ,
+      "Genre": "Fiction" ,
+      "Price": "178" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Artist and the Mathematician" ,
+      "Author": "Aczel, Amir" ,
+      "Genre": "Science" ,
+      "Price": "186" ,
+      "Publisher": "HighStakes"
+    } ,
+    {
+      "Title": "History of Western Philosophy" ,
+      "Author": "Russell, Bertrand" ,
+      "Genre": "Philosophy" ,
+      "Price": "213" ,
+      "Publisher": "Routledge"
+    } ,
+    {
+      "Title": "Selected Short Stories" ,
+      "Author": "Not Specified" ,
+      "Genre": "Fiction" ,
+      "Price": "215" ,
+      "Publisher": "Jaico"
+    } ,
+    {
+      "Title": "Rationality & Freedom" ,
+      "Author": "Sen, Amartya" ,
+      "Genre": "Economics" ,
+      "Price": "213" ,
+      "Publisher": "Springer"
+    } ,
+    {
+      "Title": "Clash of Civilizations and Remaking of the World Order" ,
+      "Author": "Huntington, Samuel" ,
+      "Genre": "History" ,
+      "Price": "228" ,
+      "Publisher": "Simon&Schuster"
+    } ,
+    {
+      "Title": "Uncommon Wisdom" ,
+      "Author": "Capra, Fritjof" ,
+      "Genre": "Non Fiction" ,
+      "Price": "197" ,
+      "Publisher": "Fontana"
+    } ,
+    {
+      "Title": "One" ,
+      "Author": "Bach, Richard" ,
+      "Genre": "Non Fiction" ,
+      "Price": "172" ,
+      "Publisher": "Dell"
+    } ,
+    {
+      "Title": "Karl Marx Biography" ,
+      "Author": "Not Specified" ,
+      "Genre": "Non Fiction" ,
+      "Price": "162" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "To Sir With Love" ,
+      "Author": "Braithwaite" ,
+      "Genre": "Fiction" ,
+      "Price": "197" ,
+      "Publisher": "Penguin"
+    } ,
+    {
+      "Title": "Half A Life" ,
+      "Author": "Naipaul, V S" ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Discovery of India" ,
+      "Author": "Nehru, Jawaharlal" ,
+      "Genre": "History" ,
+      "Price": "230" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Apulki" ,
+      "Author": "Deshpande, P L" ,
+      "Genre": "Non Fiction" ,
+      "Price": "211" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Unpopular Essays" ,
+      "Author": "Russell, Bertrand" ,
+      "Genre": "Philosophy" ,
+      "Price": "198" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Deceiver, The" ,
+      "Author": "Forsyth, Frederick" ,
+      "Genre": "Fiction" ,
+      "Price": "178" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Veil: Secret Wars of the CIA" ,
+      "Author": "Woodward, Bob" ,
+      "Genre": "History" ,
+      "Price": "171" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Char Shabda" ,
+      "Author": "Deshpande, P L" ,
+      "Genre": "Non Fiction" ,
+      "Price": "214" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Rosy is My Relative" ,
+      "Author": "Durrell, Gerald" ,
+      "Genre": "Fiction" ,
+      "Price": "176" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Moon and Sixpence" ,
+      "Author": "Maugham, William S" ,
+      "Genre": "Fiction" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Political Philosophers" ,
+      "Author": "Not Specified" ,
+      "Genre": "Philosophy" ,
+      "Price": "162" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Short History of the World" ,
+      "Author": "Wells, H G" ,
+      "Genre": "History" ,
+      "Price": "197" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Trembling of a Leaf" ,
+      "Author": "Maugham, William S" ,
+      "Genre": "Fiction" ,
+      "Price": "205" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Doctor on the Brain" ,
+      "Author": "Gordon, Richard" ,
+      "Genre": "Fiction" ,
+      "Price": "204" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Simpsons & Their Mathematical Secrets" ,
+      "Author": "Singh, Simon" ,
+      "Genre": "Science" ,
+      "Price": "233" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Pattern Classification" ,
+      "Author": "Duda, Hart" ,
+      "Genre": "Data Science" ,
+      "Price": "241" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "From Beirut to Jerusalem" ,
+      "Author": "Friedman, Thomas" ,
+      "Genre": "History" ,
+      "Price": "202" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Code Book, The" ,
+      "Author": "Singh, Simon" ,
+      "Genre": "Science" ,
+      "Price": "197" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Age of the Warrior" ,
+      "Author": "Fisk, Robert" ,
+      "Genre": "History" ,
+      "Price": "197" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Final Crisis" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "257" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Killing Joke" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "283" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Flashpoint" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "265" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Batman Earth One" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "265" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Crisis on Infinite Earths" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "258" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Numbers Behind Numb3rs" ,
+      "Author": "Devlin, Keith" ,
+      "Genre": "Science" ,
+      "Price": "202" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Superman Earth One - 1" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "259" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Superman Earth One - 2" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "258" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Justice League: Throne of Atlantis" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "258" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Justice League: The Villain's Journey" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "258" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Death of Superman" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "258" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "History of the DC Universe" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "258" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Batman: The Long Halloween" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "258" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Life in Letters, A" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Non Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Information" ,
+      "Author": "Gleick, James" ,
+      "Genre": "Science" ,
+      "Price": "233" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Journal of Economics, vol 106 No 3" ,
+      "Author": "Not Specified" ,
+      "Genre": "Economics" ,
+      "Price": "235" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Elements of Information Theory" ,
+      "Author": "Thomas, Joy" ,
+      "Genre": "Data Science" ,
+      "Price": "229" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Power Electronics - Rashid" ,
+      "Author": "Rashid, Muhammad" ,
+      "Genre": "Computer Science" ,
+      "Price": "235" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Power Electronics - Mohan" ,
+      "Author": "Mohan, Ned" ,
+      "Genre": "Computer Science" ,
+      "Price": "237" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Neural Networks" ,
+      "Author": "Haykin, Simon" ,
+      "Genre": "Data Science" ,
+      "Price": "240" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Grapes of Wrath" ,
+      "Author": "Steinbeck, John" ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Vyakti ani Valli" ,
+      "Author": "Deshpande, P L" ,
+      "Genre": "Non Fiction" ,
+      "Price": "211" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Statistical Learning Theory" ,
+      "Author": "Vapnik, Vladimir" ,
+      "Genre": "Data Science" ,
+      "Price": "228" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Empire of the Mughal - The Tainted Throne" ,
+      "Author": "Rutherford, Alex" ,
+      "Genre": "History" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Empire of the Mughal - Brothers at War" ,
+      "Author": "Rutherford, Alex" ,
+      "Genre": "History" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Empire of the Mughal - Ruler of the World" ,
+      "Author": "Rutherford, Alex" ,
+      "Genre": "History" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Empire of the Mughal - The Serpent's Tooth" ,
+      "Author": "Rutherford, Alex" ,
+      "Genre": "History" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Empire of the Mughal - Raiders from the North" ,
+      "Author": "Rutherford, Alex" ,
+      "Genre": "History" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Mossad" ,
+      "Author": "Baz-Zohar, Michael" ,
+      "Genre": "History" ,
+      "Price": "236" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Jim Corbett Omnibus" ,
+      "Author": "Corbett, Jim" ,
+      "Genre": "Non Fiction" ,
+      "Price": "223" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "20000 Leagues Under the Sea" ,
+      "Author": "Verne, Jules" ,
+      "Genre": "Fiction" ,
+      "Price": "190" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Batatyachi Chal" ,
+      "Author": "Deshpande P L" ,
+      "Genre": "Fiction" ,
+      "Price": "200" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Hafasavnuk" ,
+      "Author": "Deshpande P L" ,
+      "Genre": "Fiction" ,
+      "Price": "211" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Urlasurla" ,
+      "Author": "Deshpande P L" ,
+      "Genre": "Fiction" ,
+      "Price": "211" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Pointers in C" ,
+      "Author": "Kanetkar, Yashwant" ,
+      "Genre": "Computer Science" ,
+      "Price": "213" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Cathedral and the Bazaar, The" ,
+      "Author": "Raymond, Eric" ,
+      "Genre": "Computer Science" ,
+      "Price": "217" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Design with OpAmps" ,
+      "Author": "Franco, Sergio" ,
+      "Genre": "Computer Science" ,
+      "Price": "240" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Think Complexity" ,
+      "Author": "Downey, Allen" ,
+      "Genre": "Data Science" ,
+      "Price": "230" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Devil's Advocate" ,
+      "Author": "West, Morris" ,
+      "Genre": "Fiction" ,
+      "Price": "178" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Ayn Rand Answers" ,
+      "Author": "Rand, Ayn" ,
+      "Genre": "Philosophy" ,
+      "Price": "203" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Philosophy: Who Needs It" ,
+      "Author": "Rand, Ayn" ,
+      "Genre": "Philosophy" ,
+      "Price": "171" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "World's Great Thinkers" ,
+      "Author": "Not Specified" ,
+      "Genre": "Philosophy" ,
+      "Price": "189" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Data Analysis with Open Source Tools" ,
+      "Author": "Janert, Phillip" ,
+      "Genre": "Data Science" ,
+      "Price": "230" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Broca's Brain" ,
+      "Author": "Sagan, Carl" ,
+      "Genre": "Science" ,
+      "Price": "174" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Men of Mathematics" ,
+      "Author": "Bell, E T" ,
+      "Genre": "Mathematics" ,
+      "Price": "217" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Oxford book of Modern Science Writing" ,
+      "Author": "Dawkins, Richard" ,
+      "Genre": "Science" ,
+      "Price": "240" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Justice, Judiciary and Democracy" ,
+      "Author": "Ranjan, Sudhanshu" ,
+      "Genre": "Philosophy" ,
+      "Price": "224" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Arthashastra" ,
+      "Author": "Kautiyla" ,
+      "Genre": "Philosophy" ,
+      "Price": "214" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "We the People" ,
+      "Author": "Palkhivala" ,
+      "Genre": "Philosophy" ,
+      "Price": "216" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "We the Nation" ,
+      "Author": "Palkhivala" ,
+      "Genre": "Philosophy" ,
+      "Price": "216" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Courtroom Genius" ,
+      "Author": "Sorabjee" ,
+      "Genre": "Non Fiction" ,
+      "Price": "217" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Dongri to Dubai" ,
+      "Author": "Zaidi, Hussain" ,
+      "Genre": "Non Fiction" ,
+      "Price": "216" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "History of England, Foundation" ,
+      "Author": "Ackroyd, Peter" ,
+      "Genre": "History" ,
+      "Price": "197" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "City of Djinns" ,
+      "Author": "Dalrymple, William" ,
+      "Genre": "History" ,
+      "Price": "198" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "India's Legal System" ,
+      "Author": "Nariman" ,
+      "Genre": "Non Fiction" ,
+      "Price": "177" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "More Tears to Cry" ,
+      "Author": "Sassoon, Jean" ,
+      "Genre": "Fiction" ,
+      "Price": "235" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Ropemaker" ,
+      "Author": "Dickinson, Peter" ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Angels & Demons" ,
+      "Author": "Brown, Dan" ,
+      "Genre": "Fiction" ,
+      "Price": "170" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Judge" ,
+      "Author": "Not Specified" ,
+      "Genre": "Fiction" ,
+      "Price": "170" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Attorney, The" ,
+      "Author": "Not Specified" ,
+      "Genre": "Fiction" ,
+      "Price": "170" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Prince" ,
+      "Author": "Machiavelli" ,
+      "Genre": "Philosophy" ,
+      "Price": "173" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Eyeless in Gaza" ,
+      "Author": "Huxley, Aldous" ,
+      "Genre": "Fiction" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Tales of Beedle the Bard" ,
+      "Author": "Rowling, J K" ,
+      "Genre": "Fiction" ,
+      "Price": "184" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Girl with the Dragon Tattoo" ,
+      "Author": "Larsson, Steig" ,
+      "Genre": "Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Girl who kicked the Hornet's Nest" ,
+      "Author": "Larsson, Steig" ,
+      "Genre": "Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Girl who played with Fire" ,
+      "Author": "Larsson, Steig" ,
+      "Genre": "Fiction" ,
+      "Price": "179" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Batman Handbook" ,
+      "Author": "Not Specified" ,
+      "Genre": "Comic" ,
+      "Price": "270" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Murphy's Law" ,
+      "Author": "Not Specified" ,
+      "Genre": "Non Fiction" ,
+      "Price": "178" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Structure and Randomness" ,
+      "Author": "Tao, Terence" ,
+      "Genre": "Mathematics" ,
+      "Price": "252" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Image Processing with MATLAB" ,
+      "Author": "Eddins, Steve" ,
+      "Genre": "Signal Processing" ,
+      "Price": "241" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Animal Farm" ,
+      "Author": "Orwell, George" ,
+      "Genre": "Fiction" ,
+      "Price": "180" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "Idiot" ,
+      "Author": "Dostoevsky, Fyodor" ,
+      "Genre": "Fiction" ,
+      "Price": "197" ,
+      "Publisher": "Not Specified"
+    } ,
+    {
+      "Title": "A Christmas Carol" ,
+      "Author": "Dickens, Charles" ,
+      "Genre": "Fiction" ,
+      "Price": "196" ,
+      "Publisher": "Not Specified"
+    }
+  ]
+}
