@@ -1,7 +1,10 @@
-# Database
+# Bookstore Application - Database
 
-## SQL Server
+The data base engine for this project is MS SQL Server
 
-## SQL Server Management Studio (SSMS)
+## MS SQL Server
 
-https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+## MS SQL Server Management Studio (SSMS)
+
+[Download](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15).
+

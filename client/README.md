@@ -1,4 +1,4 @@
-# book-store
+# Bookstore Application - Client-side
 
 ## Uses
 
